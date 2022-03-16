@@ -25,6 +25,11 @@ public class Lecture4Homework1 {
         int a8 = - 1357674;
         int a9 = -1_357_674_000;
         long b = 3657895000L;
+        float b1 = 4.9876543f;
+        double b2 = 7.123456789012345678890;
+        double b3 = 18_398_458_438_583_853.28;
+        double b4 = 18_398_458_438_583_853.398_759_372_849_284_22;
+        
         System.out.println(a);
         System.out.println(a2);
         System.out.println(a3);
@@ -35,6 +40,10 @@ public class Lecture4Homework1 {
         System.out.println(a8);
         System.out.println(a9);
         System.out.println(b);
+        System.out.println(b1);
+        System.out.println(b2);
+        System.out.println(b3);
+        System.out.println(b4);
 
     }
 }
